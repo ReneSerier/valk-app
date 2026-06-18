@@ -3,7 +3,6 @@
   "devCommand": "npm run dev",
   "outputDirectory": ".",
   "framework": "express",
-  "nodejs": "18.x",
   "env": {
     "MONGODB_URI": "@mongodb_uri",
     "FRONTEND_URL": "@frontend_url"
