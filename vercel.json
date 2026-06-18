@@ -3,8 +3,4 @@
   "devCommand": "npm run dev",
   "outputDirectory": ".",
   "framework": "express",
-  "env": {
-    "MONGODB_URI": "@mongodb_uri",
-    "FRONTEND_URL": "@frontend_url"
-  }
 }
