@@ -1,4 +1,4 @@
-# Opkomst — Scouting App
+# Opkomst — Scouting App v1
 
 Een moderne web-app voor scoutingverenigingen (en andere organisaties) om opkomsten, leden en communicatie te beheren.
 
